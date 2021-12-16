@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   background-color: #ffffff;
-  background-image: url(src="https://github.com/haryanpatty/Road_Racers/blob/main/homerr.jpg?raw=true");
+  background-image: url("https://github.com/haryanpatty/Road_Racers/blob/main/homerr.jpg?raw=true");
     background-size: cover;
 } 
 li a{
