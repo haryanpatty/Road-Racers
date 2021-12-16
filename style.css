@@ -3,7 +3,9 @@
   margin: 0;
   padding: 0;
   background-color: #ffffff;
-}
+  background-image: url()
+    background-size: cover;
+} 
 li a{
     color: rgb(27, 27, 26);
     text-decoration: none;
